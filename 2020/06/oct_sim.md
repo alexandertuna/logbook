@@ -2,6 +2,7 @@
   - Nice
   - `// Input: // Output:`
   - Please no tabs, stick to spaces
+  - Have you made plot of efficiency? I worry
 - `include/ChamberUtilities.hh`
   - Why `struct slope_t` and `bool compare_slope` here? Not really chamber-related. Better for `Finder.hh`?
 - `HttStyles` lmao
