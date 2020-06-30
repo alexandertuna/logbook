@@ -3,6 +3,10 @@
   - `// Input: // Output:`
   - Please no tabs, stick to spaces
   - Have you made plot of efficiency? I worry
+  - I generally like to separate histogram-making from histogram-plotting
+    - Making: C++
+    - Plotting: python
+    - But you're in charge
 - `include/ChamberUtilities.hh`
   - Why `struct slope_t` and `bool compare_slope` here? Not really chamber-related. Better for `Finder.hh`?
 - `HttStyles` lmao
