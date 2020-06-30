@@ -1,6 +1,7 @@
 - General
   - Nice
   - `// Input: // Output:`
+  - Please no tabs, stick to spaces
 - `include/ChamberUtilities.hh`
   - Why `struct slope_t` and `bool compare_slope` here? Not really chamber-related. Better for `Finder.hh`?
 - `HttStyles` lmao
