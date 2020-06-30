@@ -8,6 +8,9 @@
     - Plotting: python
     - But you're in charge
   - Feels like a big dump of plotting stuff
+    - Think of future-Anthony
+  - Strongly support moving away from using cout for anything
+    - Put everything into root file / TTree / TH1
 - `include/ChamberUtilities.hh`
   - Why `struct slope_t` and `bool compare_slope` here? Not really chamber-related. Better for `Finder.hh`?
 - `HttStyles` lmao
