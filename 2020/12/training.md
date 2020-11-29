@@ -55,7 +55,7 @@ Wed | Steady | 8M | 7:30 | 60 mins | 6/10 |
 Thu | Fartlek | 7M (inc 4M fartlek) | 6:00-8:30 | 50 mins (30 mins fartlek) | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 3M | 8:00 | 24 mins | 3/10 | 
-Sun | Race | 10K (plus 2M warm-up/1M cool-down) | 6:30 | target: 40:30 (plus 25-min jog) | 9/10 | 
+Sun | Race | 10K (+2M warmup/cooldown) | 6:30 | target: 40:30 (plus 25-min jog) | 9/10 | 
 **Week 07**
 Mon | Easy | 3M | 8:00 | 24 mins | 3/10 | 
 Tue | Speedwork | 4x1M, 400m jog (7M total) | 10K | 65 mins | 8/10 | 
@@ -63,7 +63,7 @@ Wed | Steady | 8M | 7:30 | 60 mins | 6/10 |
 Thu | Fartlek | 7M (inc 4M fartlek) | 6:00-8:30 | 50 mins (30 mins fartlek) | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 3M | 8:00 | 24 mins | 3/10 | 
-Sun | Race | 10K (plus 2M warm-up/1M cool-down) | 6:30 | target: 40:30 (plus 25-min jog) | 9/10 | 
+Sun | Race | 10K (+2M warmup/cooldown) | 6:30 | target: 40:30 (plus 25-min jog) | 9/10 | 
 **Week 08**
 Mon | Easy | 3M | 8:00 | 24 mins | 3/10 | 
 Tue | Speedwork | 5x1K, 200m jog (7M total) | 5K | 60 mins | 9/10 | 
@@ -87,7 +87,7 @@ Wed | Steady | 7M | 7:30 | 52 mins | 6/10 |
 Thu | Fartlek | 7M (inc 3M fartlek) | 6:00-8:30 | 55 mins (20 mins fartlek) | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 3M | 8:00 | 24 mins | 3/10 | 
-Sun | Time trial | 10M (plus 1M warm-up/1M cool-down) | 1/2M | target: 1:08 (plus 16-min jog) | 9/10 | 
+Sun | Time trial | 10M (+1M warmup/cooldown) | 1/2M | target: 1:08 (plus 16-min jog) | 9/10 | 
 **Week 11**
 Mon | Easy | 3M | 8:00 | 24 mins | 3/10 | 
 Tue | Speedwork | 8x500m, 200m jog (7M total) | 5K | 60 mins | 8/10 | 
@@ -95,7 +95,7 @@ Wed | Steady | 7M | 7:30 | 52 mins | 6/10 |
 Thu | Fartlek | 7M (inc 3M fartlek) | 6:00-8:30 | 55 mins (20 mins fartlek) | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 3M | 8:00 | 24 mins | 3/10 | 
-Sun | Time trial | 10M (plus 1M warm-up/1M cool-down) | 1/2M | target: 1:08 (plus 16-min jog) | 9/10 | 
+Sun | Time trial | 10M (+1M warmup/cooldown) | 1/2M | target: 1:08 (plus 16-min jog) | 9/10 | 
 **Week 12**
 Mon | Easy | 3M | 8:00 | 24 mins | 3/10 | 
 Tue | Speedwork | 10x300m, 100m jog (6M total) | 5K | 50 mins | 7/10 | 
