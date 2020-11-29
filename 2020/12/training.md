@@ -7,7 +7,7 @@ Wed | Steady | 6M | 7:30 | 45 mins | 6/10 |
 Thu | Fartlek | 6M (inc 3M fartlek) | 6:30-8:30 | 50 mins (20 mins fartlek) | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 4M | 8:00 | 32 mins | 4/10 | 
-Sun | Race | 10K (plus 1M warm-up/1M cool-down) | 6:45 | target: 42:00 (plus 25-min jog) | 9/10 | 
+Sun | Race | 10K (+1M warmup/cooldown) | 6:45 | target: 42:00 (plus 25-min jog) | 9/10 | 
 **Week 01**
 Mon | Steady | 4M | 7:30 | 28 mins | 5/10 | 
 Tue | Speedwork | 6M (inc 5x800m, 200m jog) | 5K | 60 mins | 8/10 | 
@@ -15,7 +15,7 @@ Wed | Steady | 6M | 7:30 | 45 mins | 6/10 |
 Thu | Fartlek | 6M (inc 3M fartlek) | 6:30-8:30 | 50 mins (20 mins fartlek) | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 4M | 8:00 | 32 mins | 4/10 | 
-Sun | Race | 10K (plus 1M warm-up/1M cool-down) | 6:45 | target: 42:00 (plus 25-min jog) | 9/10 | 
+Sun | Race | 10K (+1M warmup/cooldown) | 6:45 | target: 42:00 (plus 25-min jog) | 9/10 | 
 **Week 02**
 Mon | Easy | 3M | 8:00 | 24 mins | 3/10 | 
 Tue | Speedwork | 6M (inc 10x400m, 200m jog) | 5K | 50 mins | 8/10 | 
@@ -119,7 +119,7 @@ Wed | Steady | 7M | 7:30 | 52 mins | 6/10 |
 Thu | Hills | 7M (inc 10x200m) | Mile | 60 mins | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 4M | 8:00 | 32 mins | 3/10 | 
-Sun | Race/t-trial | 13M (plus 1M warm-up/1M cool-down) | 7:00 | 92 mins (plus 16-min jog) | 9/10 | 
+Sun | Race/t-trial | 13M (+1M warmup/cooldown) | 7:00 | 92 mins (plus 16-min jog) | 9/10 | 
 **Week 15**
 Mon | Easy | 3M | 8:00 | 24 mins | 3/10 | 
 Tue | Speedwork | 5x1200m, 200m jog (7M total) | 10K | 60 mins | 8/10 | 
@@ -127,7 +127,7 @@ Wed | Steady | 7M | 7:30 | 52 mins | 6/10 |
 Thu | Hills | 7M (inc 10x200m) | Mile | 60 mins | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 4M | 8:00 | 32 mins | 3/10 | 
-Sun | Race/t-trial | 13M (plus 1M warm-up/1M cool-down) | 7:00 | 92 mins (plus 16-min jog) | 9/10 | 
+Sun | Race/t-trial | 13M (+1M warmup/cooldown) | 7:00 | 92 mins (plus 16-min jog) | 9/10 | 
 **Week 16**
 Mon | Rest |  |  |  |  | 
 Tue | Speedwork | 6x800m, 100m jog (7M total) | 5K | 60 mins | 8/10 | 
@@ -167,7 +167,7 @@ Wed | Steady | 7M | 7:30 | 53 mins | 6/10 |
 Thu | Fartlek | 6M (inc 3M fartlek) | 6:00-8:30 | 45 mins (20 mins fartlek) | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 3M | 8:00 | 24 mins | 3/10 | 
-Sun | Race | 10K (plus 1M warm-up/1M cool-down) | 6:20 | target: 39:30 (plus 16-min jog) | 10/10 | 
+Sun | Race | 10K (+1M warmup/cooldown) | 6:20 | target: 39:30 (plus 16-min jog) | 10/10 | 
 **Week 21**
 Mon | Easy | 3M | 8:00 | 24 mins | 4/10 | 
 Tue | Speedwork | 3x2K, 200m jog (8M total) | 10K | 60 mins | 8/10 | 
@@ -175,7 +175,7 @@ Wed | Steady | 7M | 7:30 | 53 mins | 6/10 |
 Thu | Fartlek | 6M (inc 3M fartlek) | 6:00-8:30 | 45 mins (20 mins fartlek) | 7/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 3M | 8:00 | 24 mins | 3/10 | 
-Sun | Race | 10K (plus 1M warm-up/1M cool-down) | 6:20 | target: 39:30 (plus 16-min jog) | 10/10 | 
+Sun | Race | 10K (+1M warmup/cooldown) | 6:20 | target: 39:30 (plus 16-min jog) | 10/10 | 
 **Week 22**
 Mon | Easy | 3M | 8:00 | 24 mins | 4/10 | 
 Tue | Speedwork | 8x400m, 200m jog (6M total) | 5K | 50 mins | 8/10 | 
@@ -183,7 +183,7 @@ Wed | Steady | 4M | 7:30 | 30 mins | 5/10 |
 Thu | Easy | 4M (inc 6x150m strides) | 8:00 | 35 mins | 6/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 3M | 8:00 | 24 mins | 3/10 | 
-Sun | 1/2M Race | (plus 1M warm-up/1M cool-down) | 6:50 | target: 1:29:30 (plus 15-min jog) | 10/10 | 
+Sun | 1/2M Race | (+1M warmup/cooldown) | 6:50 | target: 1:29:30 (plus 15-min jog) | 10/10 | 
 **Week 23**
 Mon | Easy | 3M | 8:00 | 24 mins | 4/10 | 
 Tue | Speedwork | 8x400m, 200m jog (6M total) | 5K | 50 mins | 8/10 | 
@@ -191,4 +191,4 @@ Wed | Steady | 4M | 7:30 | 30 mins | 5/10 |
 Thu | Easy | 4M (inc 6x150m strides) | 8:00 | 35 mins | 6/10 | 
 Fri | Rest |  |  |  |  | 
 Sat | Easy | 3M | 8:00 | 24 mins | 3/10 | 
-Sun | 1/2M Race | (plus 1M warm-up/1M cool-down) | 6:50 | target: 1:29:30 (plus 15-min jog) | 10/10 | 
+Sun | 1/2M Race | (+1M warmup/cooldown) | 6:50 | target: 1:29:30 (plus 15-min jog) | 10/10 | 
