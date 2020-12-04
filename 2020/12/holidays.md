@@ -1,0 +1,6 @@
+- [ ] Pad trigger readout
+- [ ] Releases and tdaq9
+  - [ ] nswcal
+  - [ ] artcalib
+  - [ ] stgc_connectivity
+  - [ ] refactor these?
