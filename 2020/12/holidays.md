@@ -1,6 +1,7 @@
 - [ ] TP L1A!
 - [ ] Pad trigger readout
 - [ ] PT-TP IBERT
+- [ ] merge `analyze_eos`
 - [ ] Releases and tdaq9
   - [ ] nswcal
   - [ ] artcalib
