@@ -2,6 +2,7 @@
 - [ ] MM TP L1A latency
 - [ ] TP L1A!
 - [ ] Pad trigger readout
+- [ ] swROD PT hack
 - [ ] PT-TP IBERT
 - [ ] merge `analyze_eos`
 - [ ] Releases and tdaq9
@@ -9,4 +10,3 @@
   - [ ] artcalib
   - [ ] stgc_connectivity
   - [ ] refactor these?
-- [ ] swROD PT hack
