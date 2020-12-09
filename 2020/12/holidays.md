@@ -13,6 +13,7 @@
   - [x] Gram scale
 - [ ] All python on LCG_98python3
 - [ ] Partition plotting!
+- [ ] Lots of MM TP plots bab
 - [ ] SFEB VMM - TDS - Router - TP
 - [ ] MM TP L1A latency
 - [ ] TP L1A!
