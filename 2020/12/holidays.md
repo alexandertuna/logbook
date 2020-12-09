@@ -7,11 +7,12 @@
     - [ ] Basketbowl
     - [ ] Banneton
     - [ ] 1 sachet
-- [ ] Amazon
-  - [ ] Shorts
-  - [ ] Socks
-  - [ ] Gram scale
+- [x] Amazon
+  - [x] Shorts
+  - [x] Socks
+  - [x] Gram scale
 - [ ] All python on LCG_98python3
+- [ ] Partition plotting!
 - [ ] SFEB VMM - TDS - Router - TP
 - [ ] MM TP L1A latency
 - [ ] TP L1A!
