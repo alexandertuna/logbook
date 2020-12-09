@@ -16,6 +16,7 @@
 - [ ] Lots of MM TP plots bab
 - [ ] SFEB VMM - TDS - Router - TP
 - [ ] MM TP L1A latency
+- [ ] Sup with these noisy VMMs in ART connectivity?
 - [ ] TP L1A!
 - [ ] Pad trigger readout
 - [ ] swROD PT hack
