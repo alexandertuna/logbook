@@ -6,6 +6,7 @@
     - [ ] Sifter
     - [ ] Basketbowl
     - [ ] Banneton
+    - [ ] 1 sachet
 - [ ] Amazon
   - [ ] Shorts
   - [ ] Socks
