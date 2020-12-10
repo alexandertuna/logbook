@@ -1,12 +1,12 @@
 - [ ] Pack
-  - [ ] Veg
-  - [ ] Cari bag
-  - [ ] Bread
-    - [ ] Scrapers
-    - [ ] Sifter
-    - [ ] Basketbowl
-    - [ ] Banneton
-    - [ ] 1 sachet
+  - [x] Veg
+  - [x] Cari bag
+  - [x] Bread
+    - [x] Scrapers
+    - [x] Sifter
+    - [x] <del>Basketbowl</del>
+    - [x] Banneton
+    - [x] 1 sachet
 - [x] Amazon
   - [x] Shorts
   - [x] Socks
