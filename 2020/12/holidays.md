@@ -13,6 +13,7 @@
   - [x] Gram scale
 - [ ] All python on LCG_98python3
 - [ ] Partition plotting!
+  - [ ] Get sector from the partition name?
 - [ ] Lots of MM TP plots bab
 - [ ] SFEB VMM - TDS - Router - TP
 - [ ] MM TP L1A latency
