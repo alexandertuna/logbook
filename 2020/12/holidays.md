@@ -12,18 +12,23 @@
   - [x] Socks
   - [x] Gram scale
 - [ ] All python on LCG_98python3
+  - [x] NSWMMART
+  - [ ] NSWSTGC
+  - [ ] NSWCalib
 - [ ] Partition plotting!
   - [ ] Get sector from the partition name?
 - [ ] Lots of MM TP plots bab
-- [ ] SFEB VMM - TDS - Router - TP
+- [ ] PT - SFEB VMM - TDS - Router - TP
+  - [x] First pass, no bandids
+  - [ ] WITH BANDIDS
 - [ ] MM TP L1A latency
 - [ ] Sup with these noisy VMMs in ART connectivity?
-- [ ] TP L1A!
+- [ ] MM TP L1A! Reproduce errors in VS?
+- [ ] STGC TP L1A!
 - [ ] Pad trigger readout
 - [ ] swROD PT hack
 - [ ] PT-TP IBERT
 - [ ] merge `analyze_eos`
-- [ ] TP input phase: guess the sector
 - [ ] Releases and tdaq9
   - [ ] nswcal
   - [ ] artcalib
