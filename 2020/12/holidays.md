@@ -11,6 +11,9 @@
   - [x] Shorts
   - [x] Socks
   - [x] Gram scale
+- [ ] Add to addc diagram
+  - [ ] R/L
+  - [ ] PCB
 - [ ] All python on LCG_98python3
   - [x] NSWMMART
   - [ ] NSWSTGC
