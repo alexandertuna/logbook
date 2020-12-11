@@ -1,4 +1,4 @@
-- [ ] Pack
+- [x] Pack
   - [x] Veg
   - [x] Cari bag
   - [x] Bread
