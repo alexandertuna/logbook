@@ -22,6 +22,7 @@
 - [ ] swROD PT hack
 - [ ] PT-TP IBERT
 - [ ] merge `analyze_eos`
+- [ ] TP input phase: guess the sector
 - [ ] Releases and tdaq9
   - [ ] nswcal
   - [ ] artcalib
