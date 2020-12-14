@@ -19,7 +19,9 @@
   - [ ] NSWSTGC
   - [ ] NSWCalib
 - [ ] Partition plotting!
-  - [ ] Get sector from the partition name?
+  - [x] Get sector from the partition name?
+  - [ ] Ask the homies about partition pyroot
+  - [ ] Get run number!?
 - [ ] Lots of MM TP plots bab
 - [ ] PT - SFEB VMM - TDS - Router - TP
   - [x] First pass, no bandids
