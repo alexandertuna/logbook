@@ -20,7 +20,7 @@
   - [ ] NSWCalib
 - [ ] Partition plotting!
   - [x] Get sector from the partition name?
-  - [ ] Ask the homies about partition pyroot
+  - [x] Ask the homies about partition pyroot
   - [ ] Get run number!?
 - [ ] Lots of MM TP plots bab
 - [ ] PT - SFEB VMM - TDS - Router - TP
