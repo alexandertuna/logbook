@@ -21,7 +21,8 @@
 - [ ] Partition plotting!
   - [x] Get sector from the partition name?
   - [x] Ask the homies about partition pyroot
-  - [ ] Get run number!?
+  - [x] Get run number!?
+  - [ ] Push it bab
 - [ ] Lots of MM TP plots bab
 - [ ] PT - SFEB VMM - TDS - Router - TP
   - [x] First pass, no bandids
@@ -31,7 +32,7 @@
 - [ ] MM TP L1A! Reproduce errors in VS?
 - [ ] STGC TP L1A!
 - [ ] Pad trigger readout
-- [ ] swROD PT hack
+- [x] swROD PT hack (or not lol)
 - [ ] PT-TP IBERT
 - [ ] merge `analyze_eos`
 - [ ] Releases and tdaq9
