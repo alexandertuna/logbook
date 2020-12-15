@@ -23,6 +23,9 @@
   - [x] Ask the homies about partition pyroot
   - [x] Get run number!?
   - [ ] Push it bab
+- [ ] Analyze ROOT files, not text files
+  - [ ] addc_alignment
+  - [ ] tp_input_phase
 - [ ] Lots of MM TP plots bab
 - [ ] PT - SFEB VMM - TDS - Router - TP
   - [x] First pass, no bandids
