@@ -34,12 +34,12 @@
 - [ ] Sup with these noisy VMMs in ART connectivity?
 - [ ] MM TP L1A! Reproduce errors in VS?
 - [ ] STGC TP L1A!
-- [ ] Pad trigger readout
+- [x] Pad trigger readout
 - [x] swROD PT hack (or not lol)
 - [ ] PT-TP IBERT
 - [ ] merge `analyze_eos`
 - [ ] Releases and tdaq9
-  - [ ] nswcal
-  - [ ] artcalib
+  - [x] nswcal
+  - [x] artcalib
   - [ ] stgc_connectivity
   - [ ] refactor these?
