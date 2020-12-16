@@ -14,18 +14,18 @@
 - [x] Add to addc diagram
   - [x] R/L
   - [x] PCB
-- [ ] All python on LCG_98python3
+- [x] All python on LCG_98python3
   - [x] NSWMMART
-  - [ ] NSWSTGC
-  - [ ] NSWCalib
+  - [x] <del>NSWSTGC</del>
+  - [x] NSWCalib
 - [x] Partition plotting! (RIP)
   - [x] Get sector from the partition name?
   - [x] Ask the homies about partition pyroot
   - [x] Get run number!?
   - [x] Push it bab
-- [ ] Analyze ROOT files, not text files
-  - [ ] addc_alignment
-  - [ ] tp_input_phase
+- [x] Analyze ROOT files, not text files
+  - [x] addc_alignment
+  - [x] tp_input_phase
 - [ ] Lots of MM TP plots bab
 - [ ] PT - SFEB VMM - TDS - Router - TP
   - [x] First pass, no bandids
