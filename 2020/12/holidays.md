@@ -18,11 +18,11 @@
   - [x] NSWMMART
   - [ ] NSWSTGC
   - [ ] NSWCalib
-- [ ] Partition plotting!
+- [x] Partition plotting! (RIP)
   - [x] Get sector from the partition name?
   - [x] Ask the homies about partition pyroot
   - [x] Get run number!?
-  - [ ] Push it bab
+  - [x] Push it bab
 - [ ] Analyze ROOT files, not text files
   - [ ] addc_alignment
   - [ ] tp_input_phase
