@@ -41,7 +41,8 @@
 - [ ] Releases and tdaq9
   - [x] nswcal
   - [x] artcalib
-  - [ ] stgc_connectivity
-  - [ ] refactor these?
+  - [x] stgc_connectivity (tuna)
+  - [ ] stgc_connectivity (nswdaq)
+  - [x] refactor these? (191_stgc, 191_mm, bb5)
 - [x] firefox
 
