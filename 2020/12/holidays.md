@@ -43,3 +43,5 @@
   - [x] artcalib
   - [ ] stgc_connectivity
   - [ ] refactor these?
+- [ ] firefox
+
