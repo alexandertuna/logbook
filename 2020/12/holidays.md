@@ -36,13 +36,13 @@
 - [ ] STGC TP L1A!
 - [x] Pad trigger readout
 - [x] swROD PT hack (or not lol)
-- [ ] PT-TP IBERT
-- [ ] merge `analyze_eos`
-- [ ] Releases and tdaq9
+- [x] PT-TP IBERT
+- [x] merge `analyze_eos`
+- [x] Releases and tdaq9
   - [x] nswcal
   - [x] artcalib
   - [x] stgc_connectivity (tuna)
-  - [ ] stgc_connectivity (nswdaq)
+  - [x] stgc_connectivity (nswdaq)
   - [x] refactor these? (191_stgc, 191_mm, bb5)
 - [x] firefox
 
