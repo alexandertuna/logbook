@@ -31,7 +31,7 @@
   - [x] First pass, no bandids
   - [ ] WITH BANDIDS
 - [ ] MM TP L1A latency
-- [ ] Sup with these noisy VMMs in ART connectivity?
+- [x] Sup with these noisy VMMs in ART connectivity?
 - [ ] MM TP L1A! Reproduce errors in VS?
 - [ ] STGC TP L1A!
 - [x] Pad trigger readout
