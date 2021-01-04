@@ -27,9 +27,9 @@
   - [x] addc_alignment
   - [x] tp_input_phase
 - [ ] Lots of MM TP plots bab
-- [ ] PT - SFEB VMM - TDS - Router - TP
+- [x] PT - SFEB VMM - TDS - Router - TP
   - [x] First pass, no bandids
-  - [ ] WITH BANDIDS
+  - [x] WITH BANDIDS
 - [ ] MM TP L1A latency
 - [x] Sup with these noisy VMMs in ART connectivity?
 - [ ] MM TP L1A! Reproduce errors in VS?
